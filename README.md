@@ -66,8 +66,8 @@ module sr_ff (s, r, clk, rst, q);
 endmodule
 ```
 ```
-Developed by:S KANUSHA SREE
-RegisterNumber:24001268
+Developed by: AMAN SINGH
+RegisterNumber:24900215
 */
 ```
 
